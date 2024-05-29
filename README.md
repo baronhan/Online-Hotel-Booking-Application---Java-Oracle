@@ -7,7 +7,7 @@ This project aims to create a basic Online Hotel Booking Application. It include
 
 # Table of Contents
 
- - [Project Structure](#project structure)
+ - [Project Structure](#projectstructure)
  - [Installation](#installation)
  - [Usage](#usage)
 
